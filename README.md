@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Wildan Nur Sobah 👋
 
-<!--
-**Ddanzyyyy/Ddanzyyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Web & Mobile Enthusiast | Data Analyst**  
+📍 Indonesia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Learning **Laravel Filament**, **Flutter**, and **Data Science**
+- 💡 Interested in **IoT Security** and **AI Integration**
+- 🎯 Goal: Build impactful software that solves real problems
+- ☕ Fun fact: Kopi Adalah Segalanya
+
+---
+
+## 🛠 Tech Stack
+**Languages & Frameworks**
+- PHP (Laravel, Filament)
+- Python (Flask, Data Analysis)
+- Dart (Flutter)
+
+**Databases**
+- MySQL | SQLite
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Figma
+
+---
+
+## 🔗 Connect with Me
+[![Instagram](https://static.vecteezy.com/system/resources/previews/018/910/697/original/instagram-mobile-app-logo-instagram-app-icon-ig-app-free-free-vector.jpg)](https://www.instagram.com/wldnrsbah/profilecard/?igsh=MTBwMXAxdWFxcHp2Zw== )
+[![Email](https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png)](wildannursobah015@gmail.com)
+
+---
+⭐️ *"Aku Bluethoth?? Tidak Mungkin"*
