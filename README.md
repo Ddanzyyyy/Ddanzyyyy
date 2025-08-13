@@ -30,9 +30,14 @@
 ---
 
 ## 🔗 Connect with Me
-[![Instagram](<img src="https://static.vecteezy.com/system/resources/previews/018/910/697/original/instagram-mobile-app-logo-instagram-app-icon-ig-app-free-free-vector.jpg" alt="Instagram Logo" width="150">
-)](https://www.instagram.com/wldnrsbah/profilecard/?igsh=MTBwMXAxdWFxcHp2Zw== )
-[![Email](https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png)](wildannursobah015@gmail.com)
+<a href="https://instagram.com/username" target="_blank">
+  <img src="https://static.vecteezy.com/system/resources/previews/018/910/697/original/instagram-mobile-app-logo-instagram-app-icon-ig-app-free-free-vector.jpg" alt="Instagram" width="50">
+</a>
+
+<a href="mailto:email@example.com">
+  <img src="https://static.vecteezy.com/system/resources/previews/022/484/516/original/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Email" width="50">
+</a>
+
 
 ---
 ⭐️ *"Aku Bluethoth?? Tidak Mungkin"*
