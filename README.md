@@ -26,5 +26,4 @@
 - Git & GitHub
 - VS Code
 - Figma
----
-⭐️ *"Aku Bluethoth?? Tidak Mungkin"*
+
