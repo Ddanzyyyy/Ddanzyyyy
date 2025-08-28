@@ -1,13 +1,13 @@
 # Hi there, I'm Wildan Nur Sobah 👋
 
-💻 **Software Developer | Web & Mobile Developer | Data Analyst**  
+💻 **Software Developer | Web & Mobile Dev | Data Analyst**  
 📍 Indonesia, West Java
 
 ---
 
 ## 🚀 About Me
 - 🌱 Learning **Laravel Filament**, **Flutter**, and **Data Science**
-- 💡 Interested in **IoT Security** , **AI Integration** dan **Network Engineering**
+- 💡 Interested in **AI Integration** dan **Network Engineering**
 - 🎯 Goal: Build impactful software that solves real problems
 - ☕ Fun fact: Kopi Adalah Segalanya
 
@@ -26,4 +26,5 @@
 - Git & GitHub
 - VS Code
 - Figma
+- Orange Data Mining
 
