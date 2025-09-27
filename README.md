@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me
-- 🌱 Learning **Laravel Filament**, **Flutter**, and **Data Science**
+- 🌱 Learning **Machine Learning**, **Data Engineering**, and **Data Science**
 - 💡 Interested in **AI Integration** dan **Network Engineering**
 - 🎯 Goal: Build impactful software that solves real problems
 
