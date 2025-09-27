@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 🌱 Learning **Machine Learning**, **Data Engineering**, and **Data Science**
-- 💡 Interested in **AI Integration** dan **Network Engineering**
+- 💡 Interested in **AI Integration** dan **Rest API**
 - 🎯 Goal: Build impactful software that solves real problems
 
 ---
