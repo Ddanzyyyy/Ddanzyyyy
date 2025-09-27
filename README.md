@@ -13,6 +13,7 @@
 ---
 
 ## 🛠 Tech Stack
+
 **Languages & Frameworks**  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="50"/> 
@@ -28,5 +29,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/> 
-<img src="https://developer.android.com/studio/images/studio-icon.svg" width="50"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/> 
 <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" width="50"/> 
+
