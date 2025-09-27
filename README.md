@@ -28,7 +28,7 @@
 **Databases**  
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
-[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-239120?style=for-the-badge&logoColor=white)](https://www.heidisql.com/)
+[![HeidiSQL](https://img.shields.io/badge/HeidiSQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](https://www.heidisql.com/)
 
 **Tools**  
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
