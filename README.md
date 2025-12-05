@@ -1,6 +1,6 @@
 # Hi there, I'm Wildan NurSobah 👋
 
-💻 **Software Developer | Web & Mobile Dev**  
+💻 **Software Developer | Mobile Dev**  
 📍 Indonesia, West Java
 
 ---
