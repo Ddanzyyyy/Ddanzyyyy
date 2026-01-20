@@ -14,8 +14,6 @@
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 <p align="left">
   <a href="https://www.php.net/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
