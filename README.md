@@ -35,9 +35,9 @@
          alt="Golang" width="50" height="50"/>
   </a>
 
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"
-         alt="Angular" width="50" height="50"/>
+  <a href="https://www.r-project.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
+         alt="R Language" width="50" height="50"/>
   </a>
 
   <a href="https://flutter.dev/" target="_blank">
@@ -50,5 +50,6 @@
          alt="Dart" width="50" height="50"/>
   </a>
 </p>
+
 
 
