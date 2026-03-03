@@ -13,11 +13,6 @@
 
 ## Tech Stack
 
-<p align="left">
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-         alt="PHP" width="50" height="50"/>
-  </a>
 
   <a href="https://laravel.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
