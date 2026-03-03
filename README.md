@@ -1,18 +1,17 @@
 # Hi there, I'm Wildan NurSobah 👋
 
-💻 **Software Developer | Mobile Dev | Data Mining**  
-📍 Indonesia, West Java
+**Software Developer | Mobile Dev | Data Mining**  
 
 ---
 
-## 🚀 About Me
-- 🌱 Learning **Machine Learning**, **Data Engineering**, and **Data Science**
-- 💡 Interested in **AI Integration** dan **Rest API**
-- 🎯 Goal: Build impactful software that solves real problems
+## About Me
+- Learning Machine Learning, Data Engineering, and Data Science
+- Interested in AI Integration dan Rest API
+- Goal: Build impactful software that solves real problems
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="left">
   <a href="https://www.php.net/" target="_blank">
@@ -44,12 +43,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
          alt="Flutter" width="50" height="50"/>
   </a>
-
-  <a href="https://dart.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
-         alt="Dart" width="50" height="50"/>
-  </a>
-</p>
 
 
 
