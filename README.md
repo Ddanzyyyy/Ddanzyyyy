@@ -24,9 +24,6 @@
   <a href="https://go.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50"/>
   </a>
-  <a href="https://gin-gonic.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png" width="50"/>
-  </a>
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
   </a>
