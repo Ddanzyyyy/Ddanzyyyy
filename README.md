@@ -10,6 +10,16 @@
 - Goal: Build impactful software that solves real problems
 
 ---
+## Connect with Me
+
+<p align="left">
+  <a href="https://instagram.com/wldnrsbah" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/>
+  </a>
+  <a href="https://linkedin.com/in/Wildan Nursobah" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+</p>
 
 ## Tech Stack
 
