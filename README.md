@@ -14,10 +14,10 @@
 
 <p align="left">
  <a href="https://instagram.com/wldnrsbah" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
   </a>
   <a href="https://linkedin.com/in/wildan-nursobah-911b13362" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
 
