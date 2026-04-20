@@ -38,7 +38,7 @@
   </a>
 </p>
 
-## 📈 Contribution Statistics
+## Contribution Statistics
 
 <p align="left">
   <!-- GitHub Stats -->
