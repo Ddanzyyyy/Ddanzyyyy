@@ -71,5 +71,4 @@
 
 ---
 
-Credit: [wldnrsbah](https://github.com/wldnrsbah)  
-Last Edited on: 20/04/2026
+Credit: [Ddanzyyyy](https://github.com/Ddanzyyyy)  
