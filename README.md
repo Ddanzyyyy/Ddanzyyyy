@@ -41,12 +41,7 @@
 ## Contribution Statistics
 
 <p align="left">
-  <!-- Top Languages -->
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddanzyyyy&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="left">
-  <!-- Streak Stats -->
-  <img height="180" src="https://streak-stats.demolab.com?user=Ddanzyyyy&theme=default&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Ddanzyyyy&theme=default&hide_border=true" />
 </p>
 
