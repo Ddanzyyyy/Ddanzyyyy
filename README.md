@@ -1,6 +1,9 @@
-# Hi there, I'm Wildan Nursobah 👋
+<p align="center">
+  <img src="git-header.svg" alt="Header" width="100%"/>
+</p>
 
-**Software Developer | Mobile Dev | Data Mining**  
+# Hi there, I'm Wildan Nursobah 👋
+**Software Developer | Mobile Dev | Data Mining**
 
 ---
 
@@ -10,10 +13,10 @@
 - Goal: Build impactful software that solves real problems
 
 ---
-## Connect with Me
 
+## Connect with Me
 <p align="left">
- <a href="https://instagram.com/wldnrsbah" target="_blank">
+  <a href="https://instagram.com/wldnrsbah" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width="40"/>
   </a>
   <a href="https://linkedin.com/in/wildan-nursobah-911b13362" target="_blank">
@@ -22,8 +25,6 @@
 </p>
 
 ## Tech Stack
-
-
 <p align="left">
   <a href="https://laravel.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50"/>
@@ -44,5 +45,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
   </a>
 </p>
-
-
