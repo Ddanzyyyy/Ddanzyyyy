@@ -42,6 +42,6 @@
 
 <p align="left">
   <img height="165" src="https://streak-stats.demolab.com?user=Ddanzyyyy&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddanzyyyy&layout=compact&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddanzyyyy&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
 </p>
 
