@@ -43,5 +43,6 @@
 <p align="left">
   <img height="165" src="https://streak-stats.demolab.com?user=Ddanzyyyy&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ddanzyyyy&layout=compact&theme=default&hide_border=true" />
+  [![An image of @ddanzyyyy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ddanzyyyy)](https://holopin.io/@ddanzyyyy)
 </p>
 
