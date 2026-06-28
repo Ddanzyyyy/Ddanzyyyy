@@ -1,15 +1,27 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=000000&size=30&lines=Hey!+It's+Wildan!+👋;I'm+a+Software+Developer!;Mobile+Dev+%7C+Data+Mining)
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/wldnrsbah)](https://instagram.com/wldnrsbah)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&link=https://linkedin.com/in/wildan-nursobah-911b13362)](https://linkedin.com/in/wildan-nursobah-911b13362)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?logo=Github&logoColor=white&link=https://github.com/wldnrsbah)](https://github.com/wldnrsbah)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=wldnrsbah)
 
 ## 🧐 About
 
 - 🌱 Learning Machine Learning, Data Engineering, and Data Science
 - 💡 Interested in AI Integration and Rest API
 - 📫 How to reach me: wildansobah69@gmail.com
+
+## Connect with Me
+
+<p align="left">
+  <a href="https://instagram.com/wldnrsbah" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40"/>
+  </a>
+
+  <a href="https://linkedin.com/in/wildan-nursobah-911b13362" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/>
+  </a>
+
+  <a href="https://github.com/wldnrsbah" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
+  </a>
+</p>
 
 
 ## Tech Stack
