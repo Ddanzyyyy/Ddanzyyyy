@@ -11,15 +11,15 @@
 
 <p align="left">
   <a href="https://instagram.com/wldnrsbah" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="35"/>
   </a>
 
   <a href="https://linkedin.com/in/wildan-nursobah-911b13362" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="35"/>
   </a>
 
   <a href="https://github.com/wldnrsbah" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="35"/>
   </a>
 </p>
 
