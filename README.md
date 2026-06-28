@@ -7,10 +7,8 @@
 
 ## 🧐 About
 
-- 🎯 Software Developer | Mobile Dev | Data Mining
 - 🌱 Learning Machine Learning, Data Engineering, and Data Science
 - 💡 Interested in AI Integration and Rest API
-- 🚀 Goal: Build impactful software that solves real problems
 - 📫 How to reach me: wildansobah69@gmail.com
 
 
