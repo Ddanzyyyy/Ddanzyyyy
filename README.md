@@ -29,11 +29,11 @@
   </a>
   <!-- Vue -->
   <a href="https://vuejs.org" target="_blank">
-    <img src="https://jsdelivr.net" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
   </a>
   <!-- React -->
   <a href="https://react.dev" target="_blank">
-    <img src="https://jsdelivr.net" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   </a>
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
