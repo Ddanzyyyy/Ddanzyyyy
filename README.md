@@ -48,6 +48,10 @@
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   </a>
 
+  <!-- Vue.js -->
+
+<a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/> </a>
+
   <!-- Flutter -->
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
