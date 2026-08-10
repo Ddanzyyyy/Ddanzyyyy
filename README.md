@@ -27,31 +27,30 @@
   <a href="https://laravel.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
   </a>
-
+  <!-- Vue -->
+  <a href="https://vuejs.org" target="_blank">
+    <img src="https://jsdelivr.net" width="40"/>
+  </a>
+  <!-- React -->
+  <a href="https://react.dev" target="_blank">
+    <img src="https://jsdelivr.net" width="40"/>
+  </a>
   <!-- Python -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   </a>
-
   <!-- Go -->
   <a href="https://go.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
   </a>
-
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
   </a>
-
   <!-- Postman -->
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
   </a>
-
-  <!-- Vue.js -->
-
-<a href="https://vuejs.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/> </a>
-
   <!-- Flutter -->
   <a href="https://flutter.dev/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
