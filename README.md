@@ -5,6 +5,7 @@
 
 - 🌱 Learning Machine Learning, Data Engineering, and Data Science
 - 💡 Interested in AI Integration and Rest API
+- 
 - 📫 How to reach me: wildansobah69@gmail.com
 
 ## Connect with Me
